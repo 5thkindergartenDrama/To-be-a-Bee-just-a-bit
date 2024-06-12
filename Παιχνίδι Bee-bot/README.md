@@ -26,9 +26,9 @@
 
 | Εικονίδιο | Κίνηση |  
 |--|--|
-| ![front](images/front.png "Κίνηση Εμπρός") |  Μπροστά|  
-| ![back](images/down.png "Κίνηση Πίσω") |  Πίσω|  
-| ![right](images/right.png "Στροφή δεξιά") |  Στροφή δεξιά κατά 90 μ.|
-| ![left](images/left.png "Στροφή αριστερά") | Στροφή αριστερά κατά 90 μ.|
+| <img src="images/front.png" width="50"/>|  Μπροστά|  
+| <img src="images/down.png" width="50"/> |  Πίσω|  
+| <img src="images/right.png" width="50"/> |  Στροφή δεξιά κατά 90 μ.|
+| <img src="images/left.png" width="50"/> | Στροφή αριστερά κατά 90 μ.|
 
 
