@@ -31,4 +31,16 @@
 | <img src="images/right.png" width="50"/> |  Στροφή δεξιά κατά 90 μ.|
 | <img src="images/left.png" width="50"/> | Στροφή αριστερά κατά 90 μ.|
 
+Αισθητήρες
+| Αισθητήρας | Εικονίδιο  | Χαρακτηρισμός | Κατώφλι
+|--|--|--|---|
+|Σχετική Υγρασία | <img src="images/humi-low.png" width="50"/> | Χαμηλή | |
+| | <img src="images/humi-normal.png" width="50"/> | Κανονική | |
+| | <img src="images/humi-high.png" width="50"/> | Υψηλή| | 
+| Θερμοκρασία |<img src="images/temp-low.png" width="50"/> | Χαμηλή | |
+| | <img src="images/temp-normal.png" width="50"/>| Κανονική| | 
+| | <img src="images/temp-high.png" width="50"/> | Υψηλή | |
+| Βάρος Κυψέλης |<img src="images/weight-low.png" width="50"/> | Μικρό | |
+|  | <img src="images/weight-normal.png" width="50"/> | Κανονικό | | 
+| | <img src="images/weight-high.png" width="50"/> | Μεγάλο | |
 
