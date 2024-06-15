@@ -120,6 +120,7 @@
 
 ## Αναγνώριση
 - Η αρχική εικόνα <img src="images/doctor.png" width="50"/> <a href="http://www.freepik.com">σχεδιάστηε από Balasoiu / Freepik</a>
+- Εικόνα <img src="images/jar.png" width="50"/> από <a href="https://www.freepik.com/free-vector/hand-drawn-honey-jar-drawing-illustration_57430710.htm#page=4&query=honey%20jar%20hand%20drawn&position=4&from_view=keyword&track=ais_user&uuid=af19ee01-e3b4-484b-a855-c3a76c943370">Freepik</a>
 
 
 
