@@ -116,7 +116,10 @@
 ## Εκτέλεση του παιχνιδιού
 Το παιχνίδι είναι διαθέσιμο στον σύνδεσμο https://scratch.mit.edu/projects/1036304511, και για την εκτέλεση σε πλήρη οθόνη στο https://scratch.mit.edu/projects/1036304511/fullscreen . Η εκτέλεση ξεκινάει πατώντας στο πράσινο σημαιάκι.
 
-Εναλλακτικά, μπορείτε να κατεβάσετε το αρχείο [Παιχνίδι Bee-Bot.sb3](Παιχνίδι%20Bee-Bot.sb3) και είτε να το φορτώσετε και εκτελέσετε στο πρόγραμμα Scratch 3 τοπικά στον υπολογιστή σας, είτε στον online [Scratch 3 Editor](https://scratch.mit.edu/projects/1037761260/editor), εφόσον πρώτα [εγγραφείτε](https://scratch.mit.edu/join) και συνδεθείτε στον λογαριασμό σας στο Scratch. 
+Εναλλακτικά, μπορείτε να κατεβάσετε το αρχείο [Παιχνίδι Bee-Bot.sb3](Παιχνίδι%20Bee-Bot.sb3) και είτε να το φορτώσετε και εκτελέσετε στο πρόγραμμα Scratch 3 τοπικά στον υπολογιστή σας, είτε στον online [Scratch 3 Editor](https://scratch.mit.edu/projects/1037761260/editor), εφόσον πρώτα [εγγραφείτε](https://scratch.mit.edu/join) και συνδεθείτε στον λογαριασμό σας στο Scratch.
+
+## Αναγνώριση
+- Η αρχική εικόνα <img src="images/doctor.png" width="50"/> <a href="http://www.freepik.com">σχεδιάστηε από Balasoiu / Freepik</a>
 
 
 
