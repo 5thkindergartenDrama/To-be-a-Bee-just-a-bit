@@ -25,8 +25,9 @@
  
 ## Αποτελέσματα
 
-### Σελίδα Παρουσίασης του Έργου
-[«To be a bee just a bit»](https://openedtech.ellak.gr/robotics2024/melenii-to-be-a-bee-just-a-bit)
+### Σελίδες Παρουσίασης του Έργου
+- [«To be a bee just a bit»](https://openedtech.ellak.gr/robotics2024/melenii-to-be-a-bee-just-a-bit)
+- [Διαγωνισμός Ανοιχτών Τεχνολογιών](https://blogs.sch.gr/nip5dra/tag/diagonismos-anoichton-technologion/) στο ιστολόγιο του 5ου Νηπιαγωγείου Δράμας.
 
 ### Σχεδιασμός
 Δείτε το [σχέδιο ανοιχτού εκπαιδευτικού πόρου](OER%20project.pdf) σύμφωνα με το OER.
