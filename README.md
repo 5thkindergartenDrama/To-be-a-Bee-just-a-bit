@@ -21,9 +21,12 @@
 
 ## Ψηφιακός Εξοπλισμός (Υλικά)
 - 1 [Blue-Bot](https://grobotronics.com/blue-bot.html)
-- 1 USB Αισθητήρας Θερμοκρασίας/Υγρασίας για τοποθέτηση εντός της κυψέλης.
+- 1 [USB Αισθητήρας Θερμοκρασίας/Υγρασίας](https://www.nsmarket.gr/gr/index/products/thermometers?row=800) για τοποθέτηση εντός της κυψέλης.
  
 ## Αποτελέσματα
+
+### Σελίδα Παρουσίασης του Έργου
+[«To be a bee just a bit»](https://openedtech.ellak.gr/robotics2024/melenii-to-be-a-bee-just-a-bit)
 
 ### Σχεδιασμός
 Δείτε το [σχέδιο ανοιχτού εκπαιδευτικού πόρου](OER%20project.pdf) σύμφωνα με το OER.
