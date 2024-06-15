@@ -118,8 +118,10 @@
 
 Εναλλακτικά, μπορείτε να κατεβάσετε το αρχείο [Παιχνίδι Bee-Bot.sb3](Παιχνίδι%20Bee-Bot.sb3) και είτε να το φορτώσετε και εκτελέσετε στο πρόγραμμα Scratch 3 τοπικά στον υπολογιστή σας, είτε στον online [Scratch 3 Editor](https://scratch.mit.edu/projects/1037761260/editor), εφόσον πρώτα [εγγραφείτε](https://scratch.mit.edu/join) και συνδεθείτε στον λογαριασμό σας στο Scratch.
 
+Μπορείτε να κατεβάσετε και να εγκαταστήσετε το πρόγραμμα Scratch 3 στον υπολογιστή σας από [εδώ](https://scratch.mit.edu/download).
+
 ## Αναγνώριση
-- Η αρχική εικόνα <img src="images/doctor.png" width="50"/> <a href="http://www.freepik.com">σχεδιάστηε από Balasoiu / Freepik</a>
+- Η αρχική εικόνα <img src="images/doctor.png" width="50"/> <a href="http://www.freepik.com">σχεδιάστηκε από Balasoiu / Freepik</a>
 - Εικόνα <img src="images/jar.png" width="50"/> από <a href="https://www.freepik.com/free-vector/hand-drawn-honey-jar-drawing-illustration_57430710.htm#page=4&query=honey%20jar%20hand%20drawn&position=4&from_view=keyword&track=ais_user&uuid=af19ee01-e3b4-484b-a855-c3a76c943370">Freepik</a>
 
 
