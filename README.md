@@ -33,7 +33,7 @@
 Δείτε το [σχέδιο ανοιχτού εκπαιδευτικού πόρου](OER%20project.pdf) σύμφωνα με το OER.
 
 ### Υλοποίηση
-- Δείτε το [BlueBee-Chat-Bot](https://github.com/5thKindergardenOfDrama/BlueBee-Chat-Bot/blob/main/README.md)
+- Δείτε το [BlueBee-Chat-Bot](https://github.com/5thKindergarτenOfDrama/BlueBee-Chat-Bot/blob/main/README.md)
 - Δείτε το [Παιχνίδι Bee-bot](Παιχνίδι%20Bee-bot/README.md)
 
 ## Οι "Μεγάλοι" των Μελένιων (Ομάδα Έργου)
